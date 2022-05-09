@@ -5,6 +5,6 @@
         android:title="월" />
     <item
         android:id="action_month_view"
-        android:title="월" />
+        android:title="주" />
 
 </menu>
